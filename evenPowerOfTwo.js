@@ -6,4 +6,4 @@ function powerOfTwo (input){
         num = num*2*2;
     }
 }
-powerOfTwo(['7']);
+powerOfTwo(['8']);
